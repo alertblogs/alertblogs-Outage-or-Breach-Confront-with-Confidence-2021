@@ -1,59 +1,40 @@
-Red Canary says 43% Lack Readiness to Notify Customers of a Security Breach
-========
+A Recent Dice Article Titled – Data Breach Costs: Calculating the Losses referenced a 2021 IBM and Ponemon Institute study that looked at nearly 525 organizations in 17 countries and regions that sustained a breach last year, and found that the average cost of a data breach in 2020 stood at $3.86 million. 
 
- 
- The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them.
+The same report also found that companies in the United States continued to experience the highest data breach costs, averaging $8.64 million per event. The IBM and Ponemon report also noted that those organizations that invest in automation, such as security orchestration, automation, and response (or SOAR), also saw the average cost of a data breach drop. In fact, with automation, the average cost of a breach for organizations is $2.45 million, versus an average cost of $6.03 million in those organizations without automation. 
 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Has your company ever experienced a significant breach or outage recently? If so, you are not alone. System outages, no matter how small, ultimately impact the organization’s bottom line. And since most attacks continue for more than six hours, it is critical that an organization have the tools and processes in place to identify, orchestrate, respond, and resolve incidents as rapidly as possible. Forward looking organizations do all they can to automate and eliminate manual processes to help mitigate, resolve, and even avoid incidents and minimize their impact on the business. 
 
-Not One Size Fits All
-========
+Let’s look at a few tips on how to better handle the next critical outage or breach incident 
+====
+Keep your stakeholders and customers informed: 
+====
+Effective incident communication is one of the major pillars of incident management success. Research has shown that communication alone can reduce time to resolve major incidents significantly faster. Transparency is very important when it comes to incident management to maintain the trust of stakeholders. When an issue arises all necessary senior management, customer service representatives, and customers should not only be notified but also receive frequent status updates. The company should determine which channel of communication is most effective in reaching all stakeholders and customers. 
 
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+Quickly put the team to work resolving the problem: 
+====
+As soon as an issue is identified teams should be notified so they can start working on the resolution process immediately. Determining up front how and which team members should be systematically notified and provided the resources they will need as crucial initial steps in the process. 
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+Automate processes and workflows wherever possible: 
+====
+When confronted with an IT breach or outage, time is not well spent manually notifying and updating systems rather than working on problem resolution. The AlertOps Platform enables the response team to act fast by automating the update and notification process for you. It’s just a quick, one-time setup that saves time when moments matter. 
 
-Automate Processes
-========
+Discover why our customers rely on AlertOps when incidents strike: 
+====
+When IT incidents strike if your team is scrambling with Excel spreadsheets, calling trees, multiple scheduling systems, placing phone calls, pulling large groups of non-vital staff into meetings, sending emails, text messages and other manual activities each time an incident occurs, then AlertOps can help you. 
 
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+AlertOps is an industry-leading, fully automated, and rules-based platform that allows you to set up precise rules to trigger communications to different groups and stakeholders using the best and most effective channels. Beyond this the AlertOps Platform has many powerful features to make your incident management life easier like: multi-modal communication, teams with on-call schedules, customizable message routing rules, customizable workflows and escalations, SLAs based severity management and much more. 
 
-Clarity
-========
+Schedule a demo today and discover how AlertOps can help your organization confront any IT breach or outage with speed and confidence  
 
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
-
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
- 
-Insightful Notifications
-========
+Or Star a 14 – Day Free Trial Now.
+Source: https://alertops.com/outage-or-breach/
 
 
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
-
-Conclusion
-========
-
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection Report
-
-Source:
-========
-alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach
-
-readmore:
-========
-
-alertops.com/covid-pandemic-business-continuity
-https://alertops.com/stakeholder-communications-plan
-https://alertops.com/incident-management-metrics
-https://alertops.com/incident-management-process
-https://alertops.com/it-process-automation-for-managed-service-providers
-https://alertops.com/application-performance-monitoring
-https://alertops.com/alertops-expert-guidance
-https://alertops.com/alertops-automation
-https://alertops.com/it-monitoring
-https://alertops.com/alertops-flexibility/
+Related Blogs: https://alertops.com/incident-management-process/ 
+https://alertops.com/major-outage-black-friday/
+https://alertops.com/communicate-customers-outage/
+https://alertops.com/outage-cost/
+https://alertops.com/do-your-strategic-partners-know-when-you-have-a-critical-outage/
+https://alertops.com/incident-management-metrics/
+https://alertops.com/integrations/bigpanda/
+https://alertops.com/black-friday-win/
